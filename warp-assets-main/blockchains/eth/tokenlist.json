@@ -1,0 +1,242 @@
+{
+  "name": "Etherex: Token List",
+  "logoURI": "",
+  "timestamp": "2022-01-27T14:33:26.183301",
+  "tokens": [
+    [
+      {
+        "name": "USD Coin",
+        "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+        "symbol": "USDC",
+        "decimals": 6
+      },
+      {
+        "name": "Wrapped Ether",
+        "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+        "symbol": "WETH",
+        "decimals": 18
+      },
+      {
+        "name": "Tether USD",
+        "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+        "symbol": "USDT",
+        "decimals": 6
+      },
+      {
+        "name": "Wrapped Bitcoin",
+        "address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+        "symbol": "WBTC",
+        "decimals": 8
+      },
+      {
+        "name": "Wrapped Staked Ether",
+        "address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+        "symbol": "wstETH",
+        "decimals": 18
+      },
+      {
+        "name": "Matic Token",
+        "address": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8",
+        "symbol": "MATIC",
+        "decimals": 18
+      },
+      {
+        "name": "Dai Stablecoin",
+        "address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+        "symbol": "DAI",
+        "decimals": 18
+      },
+      {
+        "name": "Renzo Restaked ETH",
+        "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+        "decimals": 18,
+        "symbol": "ezETH"
+      },
+      {
+        "address": "0x5FBDF89403270a1846F5ae7D113A989F850d1566",
+        "decimals": 18,
+        "name": "Foxy",
+        "symbol": "FOXY"
+      },
+      {
+        "address": "0x636B22bC471c955A8DB60f28D4795066a8201fa3",
+        "decimals": 18,
+        "name": "Uniswap",
+        "symbol": "UNI"
+      },
+      {
+        "name": "rsETHWrapper",
+        "address": "0xD2671165570f41BBB3B0097893300b6EB6101E6C",
+        "decimals": 18,
+        "symbol": "wrsETH"
+      },
+      {
+        "address": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+        "decimals": 18,
+        "name": "Wrapped eETH",
+        "symbol": "weETH"
+      },
+      {
+        "address": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+        "decimals": 18,
+        "name": "ZeroLend",
+        "symbol": "ZERO"
+      },
+      {
+        "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+        "decimals": 18,
+        "name": "USDe",
+        "symbol": "USDe"
+      },
+      {
+        "address": "0xaCb54d07cA167934F57F829BeE2cC665e1A5ebEF",
+        "decimals": 18,
+        "name": "CROAK",
+        "symbol": "CROAK"
+      },
+      {
+        "address": "0x2a4f1dcc79b83608f9e3BC1F3F55fBEfCBFaE885",
+        "decimals": 18,
+        "name": "agETHWrapper",
+        "symbol": "agETH"
+      },
+      {
+        "address": "0x5217Ab28ECE654Aab2C68efedb6A22739df6C3D5",
+        "decimals": 18,
+        "name": "Frax Share",
+        "symbol": "FXS"
+      },
+      {
+        "address": "0xea3910f1C6E687B59835885904A2FD1944B51Ec6",
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "decimals": 18
+      },
+      {
+        "address": "0xC7346783f5e645aa998B106Ef9E7f499528673D8",
+        "name": "Frax USD",
+        "symbol": "frxUSD",
+        "decimals": 18
+      },
+      {
+        "address": "0x303c4F39EA359155C698807168e9Dc3aA1dF2b95",
+        "name": "Alchemix",
+        "symbol": "ALCX",
+        "decimals": 18
+      },
+      {
+        "address": "0x303241e2B3b4aeD0bb0F8623e7442368FED8Faf3",
+        "name": "Alchemix ETH",
+        "symbol": "alETH",
+        "decimals": 18
+      },
+      {
+        "address": "0x0E17934B9735D479B2388347fAeF0F4e58b9cc06",
+        "name": "Alchemix USD",
+        "symbol": "alUSD",
+        "decimals": 18
+      },
+      {
+        "address": "0xB1aFD04774c02AE84692619448B08BA79F19b1ff",
+        "name": "Frax Ether",
+        "symbol": "frxETH",
+        "decimals": 18
+      },
+      {
+        "address": "0x3ff47c5Bf409C86533FE1f4907524d304062428D",
+        "name": "Monerium EURe",
+        "symbol": "EURe",
+        "decimals": 18
+      },
+      {
+        "address": "0x3Bce82cf1A2bc357F956dd494713Fe11DC54780f",
+        "name": "Monerium GBPe",
+        "symbol": "GBPe",
+        "decimals": 18
+      },
+      {
+        "address": "0x30C8Cf6B46AA4DF3F9fbC2857aca92F10a6cAd7f",
+        "name": "Eliteness.Network",
+        "symbol": "ELITE",
+        "decimals": 18
+      },
+      {
+        "address": "0xa500000000e482752f032eA387390b6025a2377b",
+        "name": "Astera USD",
+        "symbol": "asUSD",
+        "decimals": 18
+      },
+      {
+        "address": "0x880A3Ae90f989030708A529ABd841589053c1dC2",
+        "name": "Beaver Coin",
+        "symbol": "BEAVER",
+        "decimals": 18
+      },
+      {
+        "address": "0xEb1fD1dBB8aDDA4fa2b5A5C4bcE34F6F20d125D2",
+        "name": "Donald Toad Coin",
+        "symbol": "DTC",
+        "decimals": 18
+      },
+      {
+        "address": "0x82cC61354d78b846016b559e3cCD766fa7E793D5",
+        "name": "Linda",
+        "symbol": "LINDA",
+        "decimals": 18
+      },
+      {
+        "address": "0x092b9E25a7D143c83D44c27194F5CeE7c1150F22",
+        "name": "CatWifCap",
+        "symbol": "CWC",
+        "decimals": 18
+      },
+      {
+        "address": "0x81BE2aCB2e9291dB6400f9f6a4D0f35f24de2E77",
+        "name": "Linpuss",
+        "symbol": "LPUSS",
+        "decimals": 18
+      },
+      {
+        "address": "0x48119884e0cfCf90E4035CDCd98fDa4d21966465",
+        "name": "AENIL",
+        "symbol": "AENIL",
+        "decimals": 18
+      },
+      {
+        "address": "0xEfD81eeC32B9A8222D1842ec3d99c7532C31e348",
+        "name": "Etherex",
+        "symbol": "REX",
+        "decimals": 18
+      },
+      {
+        "address": "0xc93B315971A4f260875103F5DA84cB1E30f366Cc",
+        "name": "xREX",
+        "symbol": "xREX",
+        "decimals": 18
+      },
+      {
+        "address": "0x8cf881799E3B5ab24271A9B66b6Ca2b0e575B1ef",
+        "name": "fBOMB",
+        "symbol": "fBOMB",
+        "decimals": 18
+      },
+      {
+        "address": "0xAAAac83751090C6ea42379626435f805DDF54DC8",
+        "name": "NILE Token",
+        "symbol": "NILE",
+        "decimals": 18
+      },
+      {
+        "address": "0x38A67021bBe639caB6120c553719B5CFa60f3F18",
+        "name": "RogueTail",
+        "symbol": "ROGUE",
+        "decimals": 18
+      }
+    ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

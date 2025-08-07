@@ -1,6 +1,6 @@
 # etherex-assets
 
-Assets that Etherex supports on the front-end.
+Assets that Warp supports on the front-end.
 
 - `    {
   "name": "Token Name",

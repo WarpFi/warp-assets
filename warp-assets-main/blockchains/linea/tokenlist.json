@@ -1,5 +1,5 @@
 {
-  "name": "Etherex: Token List",
+  "name": "Warp: Token List",
   "logoURI": "",
   "timestamp": "2022-01-27T14:33:26.183301",
   "tokens": [
@@ -204,7 +204,7 @@
       },
       {
         "address": "0xEfD81eeC32B9A8222D1842ec3d99c7532C31e348",
-        "name": "Etherex",
+        "name": "Warp",
         "symbol": "REX",
         "decimals": 18
       },
